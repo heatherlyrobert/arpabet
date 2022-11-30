@@ -1,0 +1,2 @@
+# arpabet
+simplified speech library
